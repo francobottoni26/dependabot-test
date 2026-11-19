@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mcp-sanitizer": "^1.4.0"
+    "serialize-javascript": "6.0.2",
+    "svelte": "5.55.5"
   }
 }
